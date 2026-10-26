@@ -2,6 +2,8 @@
 This is a beat-making machine for improv rhythms on the go!
 
 <img width="1182" height="857" alt="image" src="https://github.com/user-attachments/assets/e98db209-e3a4-43d7-8e08-00faadef7038" />
+<img width="1076" height="852" alt="image" src="https://github.com/user-attachments/assets/b9e87fcf-9db4-41dc-9a01-766b8213d829" />
+
 
 ## What is it?
 
@@ -24,18 +26,24 @@ Currently, PCB files are complete, and I am waiting for the project to be approv
 
 ## Bill of Materials (BOM)
 
-| Part | What it's for | Qty | Unit | Total | Vendor | Link |
-| :--- | :--- | :---: | :---: | :---: | :--- | :--- |
-| **DHT11 Digital Temp & Humidity Sensor Module** | Environmental Sensor For Pet | 1 | $2.31 | $2.31 | AliExpress | [View Link](https://www.aliexpress.com/item/1005001234567890.html) |
-| **ESP 32 - C3 Mini** | For controlling the brain | 1 | $5.52 | $5.52 | AliExpress | [View Link](https://www.aliexpress.com/item/1005007890123456.html) |
-| **Resistors** | Resistors for project | 1 | $1.19 | $1.19 | AliExpress | [View Link](https://www.aliexpress.com/item/1005003456789012.html) |
-| **Switches** | For switches input to pet | 1 | $1.19 | $1.19 | AliExpress | [View Link](https://www.aliexpress.com/item/1005005678901234.html) |
-| **MPU6050 Module 6 Axis IMU** | For the motion control | 1 | $1.66 | $1.66 | AliExpress | [View Link](https://www.aliexpress.com/item/1005006789012345.html) |
-| **LEAFIE PCB** | PCB for project | 1 | $6.10 | $6.10 | JLCPCB | [View Link](https://jlcpcb.com) |
+| # | Item | Vendor | Quantity | Price (USD) |
+|---:|---|---|---:|---:|
+| 1 | [SK6812 MINI-E RGB LEDs (100 pcs)](https://www.aliexpress.com/w/wholesale-SK6812-MINI-E-3228-SMD.html) | AliExpress | 1 pack | $2.29 |
+| 2 | [Kailh Low-Profile Choc Switches (10 pcs)](https://www.aliexpress.com/w/wholesale-Kailh-Low-Profile-Choc-Switch-1350.html) | AliExpress | 1 pack | $7.84 |
+| 3 | [Waveshare ESP32-C3-Zero Development Board](https://www.aliexpress.com/w/wholesale-Waveshare-ESP32-C3-Zero.html) | AliExpress | 1 unit | $8.10 |
+| 4 | [EC11 Rotary Encoders (2 pcs)](https://www.aliexpress.com/item/1005012172639966.html) | AliExpress | 1 pack | $4.88 |
+| 5 | [Custom MIDI Keypad PCB](https://jlcpcb.com/) | JLCPCB | 5 pcs | $4.00 |
+| | | | **PCB Shipping** | **$2.00** |
 
-* **Parts Subtotal:** $17.97
-* **Tax & Shipping:** $8.93
-* **Total Estimated Cost:** **$26.90**
+### Cost Summary
+
+| AliExpress Items Subtotal | $30.40 |
+| AliExpress Shipping | $0.00 |
+| **AliExpress Estimated Total** | **$22.95** |
+| JLCPCB PCB Cost | $4.00 |
+| JLCPCB Shipping | $2.00 |
+| **PCB Order Total** | **$6.00** |
+| **Total Estimated Project Cost** | **$28.95** |
 
   
 ## Repository contents
