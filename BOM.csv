@@ -1,13 +1,14 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-SK6812 MINI-E RGB LEDs (100 pcs),1 pack,AliExpress,$2.29,$2.29,https://www.aliexpress.com/w/wholesale-SK6812-MINI-E-3228-SMD.html
-Kailh Low-Profile Choc Switches (10 pcs),1 pack,AliExpress,$7.84,$7.84,https://www.aliexpress.com/w/wholesale-Kailh-Low-Profile-Choc-Switch-1350.html
-Waveshare ESP32-C3-Zero Development Board,1,AliExpress,$8.10,$8.10,https://www.aliexpress.com/w/wholesale-Waveshare-ESP32-C3-Zero.html
-EC11 Rotary Encoders (2 pcs),1 pack,AliExpress,$4.88,$4.88,https://www.aliexpress.com/item/1005012172639966.html
-Custom MIDI Keypad PCB,5,JLCPCB,$0.80,$4.00,https://jlcpcb.com/
-Estimated PCB shipping,1,JLCPCB,$2.00,$2.00,https://jlcpcb.com/
-AliExpress subtotal,1,AliExpress,,$30.40,
-AliExpress discounts,1,AliExpress,,-$7.45,
+SK6812 MINI-E RGB LEDs (100 pcs),1,AliExpress,$0.00,$0.00,https://www.aliexpress.com/w/wholesale-SK6812-MINI-E-3228-SMD.html
+Kailh Low-Profile Choc Switches (10 pcs),1,AliExpress,$0.00,$0.00,https://www.aliexpress.com/w/wholesale-Kailh-Low-Profile-Choc-Switch-1350.html
+Waveshare ESP32-C3-Zero Development Board,1,AliExpress,$0.00,$0.00,https://www.aliexpress.com/w/wholesale-Waveshare-ESP32-C3-Zero.html
+EC11 Rotary Encoders (2 pcs),1,AliExpress,$0.00,$0.00,https://www.aliexpress.com/item/1005012172639966.html
+Custom MIDI Keypad PCB,5,JLCPCB,$0.00,$0.00,https://jlcpcb.com/
+Estimated PCB shipping,1,JLCPCB,$0.00,$0.00,https://jlcpcb.com/
+AliExpress subtotal,1,AliExpress,$0.00,$0.00,
+AliExpress discounts,1,AliExpress,$0.00,$0.00,
 AliExpress shipping,1,AliExpress,$0.00,$0.00,
-AliExpress estimated total,1,AliExpress,,$22.95,
-PCB order total,1,JLCPCB,,$6.00,
-Estimated total project cost,1,Combined,,$28.95,
+AliExpress estimated total,1,AliExpress,$0.00,$0.00,
+PCB order total,1,JLCPCB,$0.00,$0.00,
+Estimated total project cost,1,Combined,$0.00,$0.00,
+Estimated total shipping,1,,,$0.00,
