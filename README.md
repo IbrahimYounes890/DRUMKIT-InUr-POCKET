@@ -12,6 +12,7 @@ This is a Music machine PCB for week three of Half-Life HackClub! It contains va
 * 2 x Rotary Encoders
 * 3 x Buttons
 * 7 x Capacitive touch locations
+* 3 x NeoPixels
 
 ## How was it made?
 
