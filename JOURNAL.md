@@ -16,7 +16,7 @@
 
 1. [2026-10-25 – # IT'S ALREADY WEEK TWO](#2026-10-25-its-already-week-two)
 2. [2026-10-25 – # Finally started working on the Drums!](#2026-10-25-finally-started-working-on-the-drums)
-3. [2026-10-25 – Work session](#2026-10-25-work-session)
+3. [2026-10-25 – # Last session for week three!](#2026-10-25-last-session-for-week-three)
 
 ## Design
 
@@ -76,9 +76,35 @@ I decided to go for a simple rectangle with fillet edges.... That's it.... it wa
 
 # That's it for now, better get rested before my next session!
 
-### 2026-10-25 – Work session
+### 2026-10-25 – # Last session for week three!
 
 **1.93h**
+
+# Last session for week three!
+After a very long time, I am ready to ship my project! In this sessions, I planned on fully completing the PCB, and source my parts!
+
+# 3D Models
+I worked on getting all the 3d models assigned to the footprints to make it look as polished as possible.
+
+![image](https://halflife.hackclub-assets.com/sessions/CSRBTfO1gnf3OnVHBGadYvTR5GkJjHAY/a49de753e4e3e5a272265ed78731321c961ea9b5f9b2066df091ba819cfd86e6.png)
+
+# Setting up Github
+I went through the list of requirements in github such as:
+
+![image](https://halflife.hackclub-assets.com/sessions/CSRBTfO1gnf3OnVHBGadYvTR5GkJjHAY/985fd3bbc0511418127a8163bc27b0e0679b303b5ca8be981967c0e3a06dfe40.png)
+
+### ReadMe:
+Added the images for the 3d viewer, and the BOM (created with AI from cart screenshots)
+## BOM
+Again created with Gemeni
+## Schematic Files
+It took me a while to understand what that meant, but I got it in the end.
+## PCB Production Files
+I used the Kicad Plugin that was recommened by the guide.
+## Firmware
+Used the guide's firmware.
+
+## AND THAT'S IT! HAD ALOT OF FUN THIS WEEK! SEE Y'ALL NEXT WEEK!
 
 [Timelapse](https://lookout.hackclub.com/api/media/f12c6403-c458-4d93-94af-f186db7d06b1/video.mp4)
 
