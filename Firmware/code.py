@@ -1,4 +1,3 @@
-# Vibe coding some firmware because python is boring 🤑
 # Board: Waveshare ESP32-S3-Zero
 import keypad
 import touchio
